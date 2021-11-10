@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Vitor Teixeira.
 
+
 <div align="center">
   <a href="https://github.com/vitteixe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitteixe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
