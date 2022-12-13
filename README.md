@@ -18,13 +18,15 @@
   <img align="center" alt="Vitor-JS height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Vitor-JS height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 
-  <br><br>           
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <br>          
 
   ![Snake animation](https://github.com/vitteixe/vitteixe/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
                                                                                                                                                  
 
 
