@@ -3,8 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/vitteixe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitteixe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitteixe&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitteixe&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitteixe&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitteixe&theme=algolia&hide_border=false"/>
 </div>
 
 <div style="display: inline_block">
@@ -17,8 +18,14 @@
   <img align="center" alt="Vitor-JS height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Vitor-JS height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 
+  <br><br>           
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
   ![Snake animation](https://github.com/vitteixe/vitteixe/blob/output/github-contribution-grid-snake.svg)
 </div>
+                                                                                                                                                 
+
 
                                                                                                                                        
